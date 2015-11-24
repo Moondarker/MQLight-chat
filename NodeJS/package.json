@@ -1,0 +1,20 @@
+{
+  "name": "MQLight-Chat",
+  "version": "1.0.0",
+  "description": "Simple chat based on IBM Bluemix",
+  "repository": {
+    "type": "git",
+    "url": "https://url/full/path.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Bluemix",
+    "MQLight"
+  ],
+  "author": "Moon_darker",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "mqlight": "^1.0.2015090202"
+  }
+}
